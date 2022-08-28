@@ -18,3 +18,6 @@ The district summary implicated that the total number of compariable schools to 
 ![2022-08-27 21 15 42](https://user-images.githubusercontent.com/107796290/187053541-7fa6eb43-cdb5-4899-bf38-ac988f3d318f.png)
 
  ** ##The School Summary affects: Thomas High School **
+ The school summary provides an overview of the High Schools,school type, total number of students, total school budget, per student budget, average math score, average reading score, percerntage passing math, percentage passing reading, overall percentage passing. As you can view in the table diagram below 
+ 
+![image](https://user-images.githubusercontent.com/107796290/187053637-3e835b43-1cc5-49e7-b46d-570f798da613.png)
