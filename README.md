@@ -1,6 +1,6 @@
-***Overview of the School District Analysis**
+*****Overview of the School District Analysis****
 
-**The Purpose for the analysis:**
+****The Purpose for the analysis:****
 
   The School Boards requested Maria and her supervisor to reiterate a school district analysis on Thomas High School for nine, tenth, eleventh, twelvth graders due to ambigious academic discrempancies in Reading and Math scores data performance. The purpose was for Maria to provide evidence,linked to an analysis and summary for all four grades in Reading and Math based on the grading data for Thomas High School. She was to include in her analyze the affects of the district and schools in a summary. She was to extract various data performance scores in reading and math from Thomas High School as a compartive to the relative normed data with other high schools. 
   
@@ -17,4 +17,4 @@ The district summary implicated that the total number of compariable schools to 
 
 ![2022-08-27 21 15 42](https://user-images.githubusercontent.com/107796290/187053541-7fa6eb43-cdb5-4899-bf38-ac988f3d318f.png)
 
-##The School Summary affects: Thomas High School 
+ ** ##The School Summary affects: Thomas High School **
