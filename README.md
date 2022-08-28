@@ -10,22 +10,21 @@
  First, Maria and her supervisor has to design various data extractions within tables in which she was to analyze and summarize for an overall affective based on the changes to the data report.
  As a results to the overall district summary, Maria was to replace the non-graded Reading and Math scores with NaN to check the student's data for NaN which implicated that the score is missing. This is implicated in the table below. 
 
-  DISTRICT SUMMARY
+DISTRICT SUMMARY (table#1)
   ![2022-08-27 20 54 23](https://user-images.githubusercontent.com/107796290/187053228-e02397a8-dfc0-4c10-81b9-785b3d01c104.png)
 
 The district summary implicated that the total number of compariable schools to Thomas High School was fifteen additional high schools with an overal budget of $ 24,649,428.00. The district summary displays a total of 39,170 student, overall who have passing score in Reading 81.9 and Math 75. Their overall percentile in reading is 86% and math 75% respectively. The district overall passing grade is a 65. 
  As you can view a sample of the students based on district summary. 
 
-**THE SCHOOL SUMMARY overview (table)
+THE SCHOOL SUMMARY overview (table #2)
 ![2022-08-27 21 15 42](https://user-images.githubusercontent.com/107796290/187053541-7fa6eb43-cdb5-4899-bf38-ac988f3d318f.png)
 
- ***The School Summary affects: Thomas High School **
- (Refer to the table above.)
-
+ *The School Summary affects: Thomas High School: (Refer to the table above.)
+ 
  The school summary provides an overview of the High Schools,school type, total number of students, total school budget, per student budget, average math score, average reading score, percerntage passing math, percentage passing reading, overall percentage passing. As you can view in the table diagram below 
 Thomas High School is one of the charter schools out of eight schools, whos was a lower attendance rate of 1635 total students witha a budget of $1,043,130.Thomas High School preformance has indicated average scores in math and reading 83 and 83.8 respectively. However the passing percentile is below the 70 range for passing of 66.9% in Math and 69.66% in Reading. Overall thier passing rate is 65%, which is just above several of the other schools. (Bailey High School, Figueroa High School, Ford High School, Hernandez High School,Huang High School, Johnson High School, Rodriguez High School).
 
-PER SCHOOL SUMMARY: (table)
+PER SCHOOL SUMMARY: (table #3)
 ![image](https://user-images.githubusercontent.com/107796290/187053637-3e835b43-1cc5-49e7-b46d-570f798da613.png)
 
 * Math Scores by school type:
