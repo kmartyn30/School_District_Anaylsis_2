@@ -18,6 +18,7 @@ The district summary implicated that the total number of compariable schools to 
 ![2022-08-27 21 15 42](https://user-images.githubusercontent.com/107796290/187053541-7fa6eb43-cdb5-4899-bf38-ac988f3d318f.png)
 
  ** ##The School Summary affects: Thomas High School **
+ (Refer to the table above.)
  The school summary provides an overview of the High Schools,school type, total number of students, total school budget, per student budget, average math score, average reading score, percerntage passing math, percentage passing reading, overall percentage passing. As you can view in the table diagram below 
 Thomas High School is one of the charter schools out of eight schools, whos was a lower attendance rate of 1635 total students witha a budget of $1,043,130.Thomas High School preformance has indicated average scores in math and reading 83 and 83.8 respectively. However the passing percentile is below the 70 range for passing of 66.9% in Math and 69.66% in Reading. Overall thier passing rate is 65%, which is just above several of the other schools. (Bailey High School, Figueroa High School, Ford High School, Hernandez High School,Huang High School, Johnson High School, Rodriguez High School).
 
