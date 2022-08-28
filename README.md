@@ -16,7 +16,7 @@
 The district summary implicated that the total number of compariable schools to Thomas High School was fifteen additional high schools with an overal budget of $ 24,649,428.00. The district summary displays a total of 39,170 student, overall who have passing score in Reading 81.9 and Math 75. Their overall percentile in reading is 86% and math 75% respectively. The district overall passing grade is a 65. 
  As you can view a sample of the students based on district summary. 
 
-**THE SCHOOL SUMMARY (table)
+**THE SCHOOL SUMMARY overview (table)
 ![2022-08-27 21 15 42](https://user-images.githubusercontent.com/107796290/187053541-7fa6eb43-cdb5-4899-bf38-ac988f3d318f.png)
 
  ***The School Summary affects: Thomas High School **
@@ -25,14 +25,14 @@ The district summary implicated that the total number of compariable schools to 
  The school summary provides an overview of the High Schools,school type, total number of students, total school budget, per student budget, average math score, average reading score, percerntage passing math, percentage passing reading, overall percentage passing. As you can view in the table diagram below 
 Thomas High School is one of the charter schools out of eight schools, whos was a lower attendance rate of 1635 total students witha a budget of $1,043,130.Thomas High School preformance has indicated average scores in math and reading 83 and 83.8 respectively. However the passing percentile is below the 70 range for passing of 66.9% in Math and 69.66% in Reading. Overall thier passing rate is 65%, which is just above several of the other schools. (Bailey High School, Figueroa High School, Ford High School, Hernandez High School,Huang High School, Johnson High School, Rodriguez High School).
 
-
+PER SCHOOL SUMMARY: (table)
 ![image](https://user-images.githubusercontent.com/107796290/187053637-3e835b43-1cc5-49e7-b46d-570f798da613.png)
 
 * Math Scores by school type:
 Replacing the ninth graders' math and reading scores affect Thomas High School performance relative to the other schools have apppears have an average score of 83.350 which is in the same range as seven other schools. (Cabrera H.S, Griffin H.S., Holden H.S., Pena H.S., Shleden H.S., Wilson H.S., Wright H.S.). The remaining seven other schools scored below the 80s range. As you notice the charter schools were the apex in scoring in the 80s in math as opposed to the district.  
 
-* Scores by school spending:##
+* Scores by school spending:
 The school spending for Thomas High School fit in the range of $638 per student budget which is within the range of $630 to 644 spending range per student. with the average math scores of 78.5, average reading score of 81.6 score which is the second lowest in the spending ranges per student.
 
-* Score by School Size 
+* Score by School Size:
 Thomas H.S. has 1,635 attending toal students which is in the medium range between (1000 -2000) school size with the average math scores of 83.361201 comparably to the smaller size schools with the average math score of 83.821598 and large (2000- 5000) average math scores 77.746417. 
